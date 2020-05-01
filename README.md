@@ -23,7 +23,7 @@ Mój wykład zawiera następujące problemy:
 
 ## Struktura
 Każdy folder zawiera programy do testowania konkretnego Przypadku drzewa przedziałowego:
-- brut.cpp -> program na 100% poprawny, ale działa w gorszej złożoności obliczeniowej O(n^2)
+- brut.cpp -> program dające porawne wyniki, ale działa w gorszej złożoności obliczeniowej O(n^2)
 - wzor.cpp -> program, który przypuszczamy że jest poprawny,
   złożoność obliczeniowa O(n log n) lub O(n log^2 n)
 - Testerka.cpp -> Program uruchamiający programy z folderu i sprawdzający poprawnosc wzor.cpp
