@@ -45,7 +45,7 @@ $ cd testowanie_PrzPrz_max
 $ g++ -o Testerka Testerka.cpp
 $ ./Testerka
 ```
-Jężeli podczas testów zostanie wykryty błąd to można:
+Jeżeli podczas testów zostanie wykryty błąd to można:
 * wyświetlić test na którym jest błąd
 ```
 $ nano test1.in
