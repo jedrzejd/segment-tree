@@ -1,6 +1,6 @@
 ## Wykład z drzew przedziałowych z testami
 
-* [O projekcie](#0-projekcie)
+* [O projekcie](#O-projekcie)
 * [Technologie](#technologie)
 * [Instrukcja](#instrukcja)
 
